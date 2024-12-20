@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for cinefilos-uy-crimson-frog-8819 on 2024-12-05T17:06:31-03:00
+# fly.toml app configuration file generated for app-uy-crimson-frog-8819 on 2024-12-05T17:06:31-03:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'cinefilos-uy'
+app = 'app-uy-crimson-frog-8819'
 primary_region = 'iad'
 
 [build]
